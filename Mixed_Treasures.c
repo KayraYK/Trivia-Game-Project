@@ -3,11 +3,11 @@ Compiling the program
 The program should be compiled using the following flags: -std=c99 -Wall
 
 compiling:
-gcc -std=c99 -Wall kazanciKayraA1.c
+gcc -std=c99 -Wall Mixed_Treasures.c
 
 Running: ./a.out
 OR
-gcc -std=c99 -Wall kazanciKayraA1.c -o Mixed_Treasures
+gcc -std=c99 -Wall Mixed_Treasures.c -o Mixed_Treasures
 Running the Program: ./Mixed_Treasures
 *******************************************************************************/
 
